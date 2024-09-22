@@ -1,4 +1,4 @@
-. ../Functions/Add-WebAppxPackage
+. ../Functions/Add-WebAppxPackage.ps1
 
 $WingetAppPackageUrl = 'https://aka.ms/getwinget'
 
